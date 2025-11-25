@@ -1,0 +1,13 @@
+C:\Users\tamer\source\repos\OdevUcak\obj\Debug\OdevUcak.csproj.AssemblyReference.cache
+C:\Users\tamer\source\repos\OdevUcak\obj\Debug\OdevUcak.Form1.resources
+C:\Users\tamer\source\repos\OdevUcak\obj\Debug\OdevUcak.Properties.Resources.resources
+C:\Users\tamer\source\repos\OdevUcak\obj\Debug\OdevUcak.csproj.GenerateResource.cache
+C:\Users\tamer\source\repos\OdevUcak\obj\Debug\OdevUcak.csproj.CoreCompileInputs.cache
+C:\Users\tamer\source\repos\OdevUcak\bin\Debug\OdevUcak.exe.config
+C:\Users\tamer\source\repos\OdevUcak\bin\Debug\OdevUcak.exe
+C:\Users\tamer\source\repos\OdevUcak\bin\Debug\OdevUcak.pdb
+C:\Users\tamer\source\repos\OdevUcak\obj\Debug\OdevUcak.exe
+C:\Users\tamer\source\repos\OdevUcak\obj\Debug\OdevUcak.pdb
+C:\Users\tamer\source\repos\OdevUcak\bin\Debug\savar.png
+C:\Users\tamer\source\repos\OdevUcak\bin\Debug\ucak.png
+C:\Users\tamer\source\repos\OdevUcak\bin\Debug\mermi.png

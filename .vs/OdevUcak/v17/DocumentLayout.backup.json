@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tamer\\source\\repos\\OdevUcak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B7B5D7-3C1F-47AD-90A9-2C6BF20B2640}|OdevUcak.csproj|c:\\users\\tamer\\source\\repos\\odevucak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B7B5D7-3C1F-47AD-90A9-2C6BF20B2640}|OdevUcak.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B7B5D7-3C1F-47AD-90A9-2C6BF20B2640}|OdevUcak.csproj|c:\\users\\tamer\\source\\repos\\odevucak\\savar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B7B5D7-3C1F-47AD-90A9-2C6BF20B2640}|OdevUcak.csproj|solutionrelative:savar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B7B5D7-3C1F-47AD-90A9-2C6BF20B2640}|OdevUcak.csproj|c:\\users\\tamer\\source\\repos\\odevucak\\ucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B7B5D7-3C1F-47AD-90A9-2C6BF20B2640}|OdevUcak.csproj|solutionrelative:ucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B7B5D7-3C1F-47AD-90A9-2C6BF20B2640}|OdevUcak.csproj|c:\\users\\tamer\\source\\repos\\odevucak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4B7B5D7-3C1F-47AD-90A9-2C6BF20B2640}|OdevUcak.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B7B5D7-3C1F-47AD-90A9-2C6BF20B2640}|OdevUcak.csproj|c:\\users\\tamer\\source\\repos\\odevucak\\mermi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B7B5D7-3C1F-47AD-90A9-2C6BF20B2640}|OdevUcak.csproj|solutionrelative:mermi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucak.cs",
+              "DocumentMoniker": "C:\\Users\\tamer\\source\\repos\\OdevUcak\\ucak.cs",
+              "RelativeDocumentMoniker": "ucak.cs",
+              "ToolTip": "C:\\Users\\tamer\\source\\repos\\OdevUcak\\ucak.cs",
+              "RelativeToolTip": "ucak.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:49:56.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "savar.cs",
+              "DocumentMoniker": "C:\\Users\\tamer\\source\\repos\\OdevUcak\\savar.cs",
+              "RelativeDocumentMoniker": "savar.cs",
+              "ToolTip": "C:\\Users\\tamer\\source\\repos\\OdevUcak\\savar.cs",
+              "RelativeToolTip": "savar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:46:46.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mermi.cs",
+              "DocumentMoniker": "C:\\Users\\tamer\\source\\repos\\OdevUcak\\mermi.cs",
+              "RelativeDocumentMoniker": "mermi.cs",
+              "ToolTip": "C:\\Users\\tamer\\source\\repos\\OdevUcak\\mermi.cs",
+              "RelativeToolTip": "mermi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:42:25.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tamer\\source\\repos\\OdevUcak\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\tamer\\source\\repos\\OdevUcak\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:16:05.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamer\\source\\repos\\OdevUcak\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\tamer\\source\\repos\\OdevUcak\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:15:53.838Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
